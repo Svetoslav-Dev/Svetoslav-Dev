@@ -19,8 +19,9 @@ Backend Software Developer in building websites
 
 ### 🛒 VoidForgeStore
 Production e-commerce platform built with Laravel, Docker, Stripe/PayPal, queues, admin tooling, and Cloudflare deployment.
-📂 Demo credentials: https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md
-🌐 https://voidforgestore.com/products
+
+📂 Demo credentials: https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md<br>
+🌐 Live: https://voidforgestore.com/products<br>
 
 ### ⚔️ Warcraft 3 Strategy Hub
 Fullstack Warcraft III strategy platform with:
