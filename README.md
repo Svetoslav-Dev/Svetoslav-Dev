@@ -1,6 +1,5 @@
 # Hey, I'm Svetoslav 👋
-
-Backend-focused software developer building fullstack web and mobile applications.
+Backend Software Developer in building websites
 
 ## Tech Stack
 
@@ -15,8 +14,6 @@ Backend-focused software developer building fullstack web and mobile application
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ## Featured Projects
 
@@ -33,14 +30,6 @@ Fullstack Warcraft III strategy platform with:
 - admin dashboard
 - mobile support
 
----
+## Current Goal
+- Becoming a Senior Backend Software Developer
 
-## Current Focus
-
-- Becoming Senior Backend Engineer
-- Backend architecture
-- Scalable systems
-- APIs and databases
-- Production-ready applications
-
----
