@@ -1,26 +1,104 @@
-# Hey, I'm Svetoslav 👋
-Backend Software Developer with hands on experience with problems caused by too much code and not enough thinking. The saying goes fix it for now think about the problem later on and create technical debt.
+# Hi, I'm Svetoslav 👋
 
-## Tech Stack
+Backend-oriented Full Stack Developer | PHP, Laravel, Next.js, TypeScript, Docker, Cloudflare
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00B37E?style=for-the-badge&logo=neon&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I build production-oriented web applications using:
+
+* PHP & Laravel
+* TypeScript, React & Next.js
+* Docker & Linux
+* REST APIs & PostgreSQL
+* CI/CD & cloud deployment
+
+Currently focused on:
+
+* scalable backend systems
+* full-stack architecture
+* DevOps & infrastructure
+* production-ready applications
+
+---
 
 ## Featured Projects
 
-### 🛒 VoidForgeStore
-Production e-commerce platform built with Laravel, Docker, Stripe/PayPal, queues, admin tooling, and Cloudflare deployment.
+### VoidforgeStore
 
-📂 Demo credentials: https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md<br>
-🌐 Live: https://voidforgestore.com/products<br>
+Laravel e-commerce storefront featuring:
+
+* Stripe & PayPal integration
+* Dockerized infrastructure
+* admin dashboard
+* queued order processing
+* PDF invoice generation
+
+🔗 Repository: https://github.com/Svetoslav-Dev/Voidforge
+🔗 Demo currently offline
+
+---
+
+### WC3 Matchup Guide
+
+Full-stack strategy platform with shared web/mobile architecture built using:
+
+* Next.js
+* PostgreSQL
+* Drizzle ORM
+* JWT authentication
+* GitHub Actions CI/CD
+* Vercel
+* Neon
+* Expo
+
+Includes mobile client support and admin CMS.
+
+🔗 Web: https://wc3-matchup-guide-web.vercel.app/
+🔗 Mobile: https://wc3-matchup-guide-mobile.vercel.app/
+🔗 Repository: https://github.com/Svetoslav-Dev/wc3-matchup-guide
+
+---
+
+## Tech Stack
+
+### Backend
+
+PHP • Laravel • REST APIs • MySQL • PostgreSQL • Redis
+
+### Frontend
+
+TypeScript • React • Next.js
+
+### DevOps & Infrastructure
+
+Docker • Linux • Nginx • GitHub Actions • Jenkins • Cloudflare
+
+---
+
+## Experience
+
+### Backend PHP Developer — Mi9 Retail
+
+Worked on production retail/e-commerce systems involving:
+
+* API integrations
+* legacy modernization
+* PHP 8 migration
+* Elasticsearch logging
+* Dockerized services
+* production issue resolution
+
+---
+
+## Certifications
+
+* [Full-Stack Apps with AI](https://softuni.bg/certificates/details/261915/39532fde)
+* [Containers & Cloud](https://softuni.bg/certificates/details/255834/5116ee7a)
+* [CI/CD & Monitoring](https://softuni.bg/certificates/details/258399/265e98f1)
+* [Linux System Administration Advanced](https://softuni.bg/certificates/details/258351/bf774b34)
+* [QA Basics](https://softuni.bg/certificates/details/261837/d6752292)
+
+---
+
+## Connect With Me
+
+* Portfolio: https://portfolio-svetoslav.pages.dev/
+* LinkedIn: https://www.linkedin.com/in/svetoslav-dichkov/
