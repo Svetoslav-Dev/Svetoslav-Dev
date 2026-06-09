@@ -31,7 +31,7 @@ Laravel e-commerce storefront featuring:
 * queued order processing
 * PDF invoice generation
 
-🔗 Repository: https://github.com/Svetoslav-Dev/Voidforge
+🔗 Repository: https://github.com/Svetoslav-Dev/Voidforge <br>
 🔗 Demo currently offline
 
 ---
@@ -51,6 +51,6 @@ Full-stack strategy platform with shared web/mobile architecture built using:
 
 Includes mobile client support and admin CMS.
 
-🔗 Web: https://wc3-matchup-guide-web.vercel.app/
-🔗 Mobile: https://wc3-matchup-guide-mobile.vercel.app/
+🔗 Web: https://wc3-matchup-guide-web.vercel.app/ <br>
+🔗 Mobile: https://wc3-matchup-guide-mobile.vercel.app/ <br>
 🔗 Repository: https://github.com/Svetoslav-Dev/wc3-matchup-guide
